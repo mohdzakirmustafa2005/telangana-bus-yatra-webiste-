@@ -1,0 +1,5 @@
+{
+  "name": "Telangana Bus Yatra",
+  "description": "An online bus booking application for Telangana, featuring an AI travel planner and WhatsApp integration for sharing booking details.",
+  "requestFramePermissions": []
+}
